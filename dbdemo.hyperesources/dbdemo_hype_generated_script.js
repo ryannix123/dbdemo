@@ -75,7 +75,7 @@
 	
 	var resources = {"0":{n:"Pasted.png",p:1}};
 	
-	var scenes = [{x:0,p:"600px",c:"#FFFFFF",v:{"2":{o:"content-box",h:"0",x:"visible",a:190,q:"100% 100%",b:33,j:"absolute",r:"inline",c:220,k:"div",z:"1",d:235,e:"0.000000"},"5":{aU:8,G:"#000000",aV:8,r:"inline",e:"0.000000",aW:"0.000000",t:16,Z:"break-word",aP:"pointer",w:"Let\u2019s test the database connection!",j:"absolute",x:"visible",aA:[{type:5,goToURL:"/database.php",openInNewWindow:false}],k:"div",y:"preserve",z:"2",aS:8,aT:8,a:168,b:316}},n:"Untitled Scene",T:{kTimelineDefaultIdentifier:{d:2.02,i:"kTimelineDefaultIdentifier",n:"Main Timeline",a:[{f:"2",t:0,d:2.02,i:"e",e:"1.000000",s:"0.000000",o:"2"},{f:"2",t:0,d:2.02,i:"e",e:"1.000000",s:"0.000000",o:"5"},{f:"2",t:0,d:2.01,i:"aW",e:"0.300000",s:"0.000000",o:"5"}],f:30}},o:"1"}];
+	var scenes = [{x:0,p:"600px",c:"#FFFFFF",v:{"2":{o:"content-box",h:"0",x:"visible",a:190,q:"100% 100%",b:33,j:"absolute",r:"inline",c:220,k:"div",z:"1",d:235,e:"0.000000"},"5":{aU:8,G:"#000000",aV:8,r:"inline",e:"0.000000",aW:"0.000000",t:16,Z:"break-word",aP:"pointer",w:"Let\u2019s test the database connection!",j:"absolute",x:"visible",aA:[{type:5,goToURL:"/dbtest.php",openInNewWindow:false}],k:"div",y:"preserve",z:"2",aS:8,aT:8,a:168,b:316}},n:"Untitled Scene",T:{kTimelineDefaultIdentifier:{d:2.02,i:"kTimelineDefaultIdentifier",n:"Main Timeline",a:[{f:"2",t:0,d:2.02,i:"e",e:"1.000000",s:"0.000000",o:"2"},{f:"2",t:0,d:2.02,i:"e",e:"1.000000",s:"0.000000",o:"5"},{f:"2",t:0,d:2.01,i:"aW",e:"0.300000",s:"0.000000",o:"5"}],f:30}},o:"1"}];
 	
 	var javascripts = [];
 	
